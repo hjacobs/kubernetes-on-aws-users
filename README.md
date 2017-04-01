@@ -20,6 +20,7 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * [Luiza Labs](http://luizalabs.com/) - [slides](https://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf)
 * [Photobox](http://group.photobox.com)
 * [Reddit](https://www.reddit.com/)
+* [Spire](https://spire.me/) - [article](https://thenewstack.io/kubernetes-credited-saving-spire-service-s3-outage/)
 * [Spreaker](https://www.spreaker.com/)
 * [Weaveworks](https://weave.works) - [blog post](https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/)
 * [Zalando SE](https://tech.zalando.com/) - [slides](https://www.slideshare.net/try_except_/kubernetes-on-aws-at-europes-leading-online-fashion-platform)
