@@ -22,7 +22,7 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * [Reddit](https://www.reddit.com/)
 * [Spreaker](https://www.spreaker.com/)
 * [Weaveworks](https://weave.works) - [blog post](https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/)
-* [Zalando SE](https://github.com/zalando-incubator/kubernetes-on-aws)
+* [Zalando SE](https://tech.zalando.com/) - [slides](https://www.slideshare.net/try_except_/kubernetes-on-aws-at-europes-leading-online-fashion-platform)
 
 ## Contact
 
