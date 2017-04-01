@@ -15,8 +15,9 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * Disney
 * [Exaring AG](https://waipu.tv)
 * [GolfNow](https://www.youtube.com/watch?v=MBDog4ivBHI&list=PLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4&index=74)
+* [Hotels.com](https://hotels.com)
 * [Immmr](https://www.immmr.com/)
-* [Luiza Labs](http://luizalabs.com/) [slides](https://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf)
+* [Luiza Labs](http://luizalabs.com/) - [slides](https://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf)
 * [Photobox](http://group.photobox.com)
 * [Reddit](https://www.reddit.com/)
 * [Spreaker](https://www.spreaker.com/)
