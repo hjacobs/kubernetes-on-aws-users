@@ -18,6 +18,7 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * [Hotels.com](https://hotels.com)
 * [Immmr](https://www.immmr.com/)
 * [Luiza Labs](http://luizalabs.com/) - [slides](https://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf)
+* [Nanit](https://www.nanit.com/) - [blog post](https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/)
 * [Photobox](http://group.photobox.com)
 * [Reddit](https://www.reddit.com/)
 * [Spire](https://spire.me/) - [article](https://thenewstack.io/kubernetes-credited-saving-spire-service-s3-outage/)
