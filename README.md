@@ -22,3 +22,10 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * [Spreaker](https://www.spreaker.com/)
 * [Weaveworks](https://weave.works) - [blog post](https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/)
 * [Zalando SE](https://github.com/zalando-incubator/kubernetes-on-aws)
+
+## Contact
+
+This is an initiative of [SIG-AWS](https://github.com/kubernetes/community/tree/master/sig-aws).
+Please create GitHub issues for questions/concerns with this repo or [the Google form](https://docs.google.com/a/zalando.de/forms/d/e/1FAIpQLScrZkcCP8lfAuxZcWOzEmAIP0XCO5PtnfJbU0lFLx8D2-EdNg/viewform).
+
+Please fill out [the Google form](https://docs.google.com/a/zalando.de/forms/d/e/1FAIpQLScrZkcCP8lfAuxZcWOzEmAIP0XCO5PtnfJbU0lFLx8D2-EdNg/viewform) to add your organization instead of opening a PR.
