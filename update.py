@@ -1,4 +1,13 @@
 #!/usr/bin/env python3
+'''
+Helper script to convert Google form responses
+(exported from Google Spreadsheet via File -> Download as -> Tab-separated values)
+to Markdown table rendered in README.md
+
+Example invocation:
+
+./update.py ~/Downloads/Kubernetes\ on\ AWS-\ User\ Survey\ \(Responses\)\ -\ Form\ responses\ 1.tsv
+'''
 
 import argparse
 import csv
@@ -16,8 +25,11 @@ COLUMN_MAPPING = {
 }
 
 VALUE_MAPPING = {
+    'None: we are not running Kubernetes on AWS at all, not even a proof of concept (POC).': 'none',
+    'Proof of concept: we are in the proof of concept phase for Kubernetes on AWS.': 'proof of concept',
+    'Development/test/staging: we are using Kubernetes on AWS for dev/test/staging environments.': 'dev/test/staging',
+    'Internal tooling/services or non-critical apps: we are running internal applications on Kubernetes on AWS, outages are not business critical.': 'internal/non-critical apps',
     'Critical business applications: we are running critical production workloads on Kubernetes on AWS.': 'critical business apps',
-    'Proof of concept: we are in the proof of concept phase for Kubernetes on AWS.': 'proof of concept'
 }
 
 parser = argparse.ArgumentParser()
@@ -42,7 +54,7 @@ with open(args.tsvfile) as tsvfile:
 rows.sort(key=lambda r: r['organization_name'])
 
 with open('form-responses.json', 'w') as fd:
-    json.dump(rows, fd)
+    json.dump(rows, fd, sort_keys=True)
 
 with open('README.md') as fd:
     template = fd.read()
