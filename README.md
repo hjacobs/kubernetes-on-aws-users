@@ -3,7 +3,20 @@
 If you are using Kubernetes on AWS, please [participate in our Kubernetes on AWS user survey](https://docs.google.com/a/zalando.de/forms/d/e/1FAIpQLScrZkcCP8lfAuxZcWOzEmAIP0XCO5PtnfJbU0lFLx8D2-EdNg/viewform)
 to help us compile a public list of Kubernetes on AWS users.
 
-The survey results (list of organizations) will be published here.
+The survey results (list of organizations) will be published in the next section.
+
+## Form Responses
+
+The following companies/organizations filled out [the Google form](https://docs.google.com/a/zalando.de/forms/d/e/1FAIpQLScrZkcCP8lfAuxZcWOzEmAIP0XCO5PtnfJbU0lFLx8D2-EdNg/viewform) so far (sorted alphabetically):
+
+<!-- TABLE_START -->
+| Organization | Workload (K8s on AWS) | Provisioning | More Info | Location |
+|---|---|---|---|---|
+| [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
+| [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
+| [Zalando SE](https://tech.zalando.com) | critical business apps | Custom Cloud Formation + CoreOS | https://github.com/zalando-incubator/kubernetes-on-aws | Berlin, Germany |
+<!-- TABLE_END -->
+
 
 ## Manually Compiled List
 
