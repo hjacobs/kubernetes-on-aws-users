@@ -12,10 +12,14 @@ The following companies/organizations filled out [the Google form](https://docs.
 <!-- TABLE_START -->
 | Organization | Workload (K8s on AWS) | Provisioning | More Info | Location |
 |---|---|---|---|---|
+| [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See https://applatix.com/blog/ for various articles on our internal use | Sunnyvale, California. |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
+| [Checkr](http://checkr.com) | critical business apps | kube-aws | https://github.com/checkr/fluentd-firehose  and more to come.. | San Francisco, CA |
+| [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: https://movio.co/blog/6-months-kubernetes-production/ Prometheus + Kubernetes: https://movio.co/blog/prometheus-service-discovery-kubernetes/ | Auckland, New Zealand |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14 https://www.youtube.com/watch?v=xvXy2BiaWrQ | Chattanooga, TN |
+| [Stylight GmbH](https://www.stylight.com) | critical business apps | Custom Cloud Formation + CoreOS | https://github.com/stylight/etcd-bootstrap | Munich |
 | [Zalando SE](https://tech.zalando.com) | critical business apps | Custom Cloud Formation + CoreOS | https://github.com/zalando-incubator/kubernetes-on-aws | Berlin, Germany |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
 <!-- TABLE_END -->
