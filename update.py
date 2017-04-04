@@ -51,7 +51,7 @@ with open(args.tsvfile) as tsvfile:
             row[key] = value
         rows.append(row)
 
-rows.sort(key=lambda r: r['organization_name'])
+rows.sort(key=lambda r: r['organization_name'].lower())
 
 with open('form-responses.json', 'w') as fd:
     json.dump(rows, fd, sort_keys=True)
