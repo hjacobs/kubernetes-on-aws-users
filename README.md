@@ -15,6 +15,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See https://applatix.com/blog/ for various articles on our internal use | Sunnyvale, California. |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
 | [Checkr](http://checkr.com) | critical business apps | kube-aws | https://github.com/checkr/fluentd-firehose  and more to come.. | San Francisco, CA |
+| [Clarifai, Inc.](https://clarifai.com) | critical business apps | Custom Ansible for GPUs + CoreOS | http://blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/ | New York City (HQ), San Francisco |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf | São Paulo, Brazil |
