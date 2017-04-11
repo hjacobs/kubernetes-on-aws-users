@@ -23,6 +23,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14 https://www.youtube.com/watch?v=xvXy2BiaWrQ | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
+| [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
 | [Stylight GmbH](https://www.stylight.com) | critical business apps | Custom Cloud Formation + CoreOS | https://github.com/stylight/etcd-bootstrap | Munich |
 | [Ticketmaster](http://www.ticketmaster.com) | critical business apps | CoreOS Tectonic | See presentations from KubeCon & KubeCon EU. It's growing like mad. | Los Angeles, CA |
