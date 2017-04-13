@@ -20,6 +20,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
+| [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016 | Berlin, Germany |
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: https://movio.co/blog/6-months-kubernetes-production/ Prometheus + Kubernetes: https://movio.co/blog/prometheus-service-discovery-kubernetes/ | Auckland, New Zealand |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
@@ -47,7 +48,6 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * Disney
 * [GolfNow](https://www.youtube.com/watch?v=MBDog4ivBHI&list=PLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4&index=74)
 * [Hotels.com](https://hotels.com)
-* [Immmr](https://www.immmr.com/)
 * [Nanit](https://www.nanit.com/) - [blog post](https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/)
 * [Reddit](https://www.reddit.com/)
 
