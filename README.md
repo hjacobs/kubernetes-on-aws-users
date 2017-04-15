@@ -34,6 +34,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Ticketmaster](http://www.ticketmaster.com) | critical business apps | CoreOS Tectonic | See presentations from KubeCon & KubeCon EU. It's growing like mad. | Los Angeles, CA |
 | [uSwitch](http://www.uswitch.com) | critical business apps | kops and custom terraform | Not yet- we've started posting regularly to https://labs.uswitch.com and some posts on our Kubernetes work will appear soon. | London, UK |
 | [Veritas Technologies LLC](http://veritas.com) | internal/non-critical apps | Terraform based on kube-aws with CoreOS | No | Minneapolis, MN; Hays, KS; Mtn View, CA |
+| [Vonage](https://www.vonage.com) | proof of concept | kops, terraform |  | Holmdel, NJ |
 | [Weaveworks](http://weave.works) | critical business apps | Terraform+Ansible (https://github.com/weaveworks/ansible-kubernetes) | https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/ | Berlin, London & San Francisco |
 | [Zalando SE](https://tech.zalando.com) | critical business apps | Custom Cloud Formation + CoreOS | https://github.com/zalando-incubator/kubernetes-on-aws | Berlin, Germany |
 <!-- TABLE_END -->
