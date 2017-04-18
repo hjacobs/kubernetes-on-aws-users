@@ -12,6 +12,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 <!-- TABLE_START -->
 | Organization | Workload (K8s on AWS) | Provisioning | More Info | Location |
 |---|---|---|---|---|
+| [AOE](https://aoe.com) | dev/test/staging | kops |  | Wiesbaden, Germany |
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See https://applatix.com/blog/ for various articles on our internal use | Sunnyvale, California. |
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | https://twitter.com/ryanckoch/status/768933690298609665 https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/ | Louisville, CO |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
