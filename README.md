@@ -27,6 +27,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: https://movio.co/blog/6-months-kubernetes-production/ Prometheus + Kubernetes: https://movio.co/blog/prometheus-service-discovery-kubernetes/ | Auckland, New Zealand |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
+| [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
 | [SeamlessGov](http://seamlessgov.com/) | critical business apps | kops |  | New York, NY |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14 https://www.youtube.com/watch?v=xvXy2BiaWrQ | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
