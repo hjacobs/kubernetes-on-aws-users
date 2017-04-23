@@ -32,6 +32,13 @@ VALUE_MAPPING = {
     'Critical business applications: we are running critical production workloads on Kubernetes on AWS.': 'critical business apps',
 }
 
+LINK = re.compile(r'(https?://)(\S+\b/?)([!"#$%&\'()*+,\-./:;<=>?@[\\\]^_`{|}~]*)(\s|$)', re.I)
+
+
+def replace(match):
+    return '[{1}]({0}{1}{2}){3}'.format(*match.groups())
+
+
 parser = argparse.ArgumentParser()
 parser.add_argument('tsvfile')
 args = parser.parse_args()
@@ -64,6 +71,10 @@ lines = [
     '|---|---|---|---|---|'
 ]
 for row in rows:
+    for key, val in row.items():
+        if key in ('provisioning', 'more_info'):
+            # shorten link display
+            row[key] = LINK.sub(replace, val)
     lines.append('| [{organization_name}]({organization_url}) | {workload} | {provisioning} | {more_info} | {location} |'.format(**row))
 
 table = '\n'.join(lines)
