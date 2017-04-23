@@ -19,6 +19,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Checkr](http://checkr.com) | critical business apps | kube-aws | https://github.com/checkr/fluentd-firehose  and more to come.. | San Francisco, CA |
 | [Clarifai, Inc.](https://clarifai.com) | critical business apps | Custom Ansible for GPUs + CoreOS | http://blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/ | New York City (HQ), San Francisco |
 | [CodeValue](http://www.codevalue.net) | critical business apps | kops |  | Israel |
+| [Crowdfire Inc](https://crowdfireapp.com) | critical business apps | kops, Custom Terraform+Ansible |  | Mumbai, India |
 | [Descomplica](https://descomplica.com.br) | critical business apps | kube-aws | http://danielfm.me/posts/five-months-of-kubernetes.html | Rio de Janeiro, Brazil |
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
