@@ -59,7 +59,6 @@ The following companies/organizations are known to run Kubernetes on AWS (sorted
 * [GolfNow](https://www.youtube.com/watch?v=MBDog4ivBHI&list=PLj6h78yzYM2PqgIGU1Qmi8nY7dqn9PCr4&index=74)
 * [Hotels.com](https://hotels.com)
 * [Nanit](https://www.nanit.com/) - [blog post](https://railsadventures.wordpress.com/2015/12/06/why-we-chose-kubernetes-over-ecs/)
-* [Reddit](https://www.reddit.com/)
 
 ## Contact
 
