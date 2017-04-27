@@ -43,6 +43,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Veritas Technologies LLC](http://veritas.com) | internal/non-critical apps | Terraform based on kube-aws with CoreOS | No | Minneapolis, MN; Hays, KS; Mtn View, CA |
 | [Vonage](https://www.vonage.com) | proof of concept | kops, terraform |  | Holmdel, NJ |
 | [Weaveworks](http://weave.works) | critical business apps | Terraform+Ansible ([github.com/weaveworks/ansible-kubernetes](https://github.com/weaveworks/ansible-kubernetes)) | [www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/](https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/) | Berlin, London & San Francisco |
+| [Yahoo Inc](http://qc.yahoo.cm) | proof of concept | kops, Terraform |  | Barcelona, Sunnyvale |
 | [Zalando SE](https://tech.zalando.com) | critical business apps | Custom Cloud Formation + CoreOS | [github.com/zalando-incubator/kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) | Berlin, Germany |
 <!-- TABLE_END -->
 
