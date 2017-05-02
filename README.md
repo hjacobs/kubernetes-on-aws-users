@@ -15,6 +15,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [AOE](https://aoe.com) | dev/test/staging | kops |  | Wiesbaden, Germany |
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See [applatix.com/blog/](https://applatix.com/blog/) for various articles on our internal use | Sunnyvale, California. |
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | [twitter.com/ryanckoch/status/768933690298609665](https://twitter.com/ryanckoch/status/768933690298609665) [prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/](https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/) | Louisville, CO |
+| [Bitnami](https://bitnami.com/) | critical business apps | kops | [bitn.am/2p25cF3](http://bitn.am/2p25cF3) [bitnami.com/kubernetes](https://bitnami.com/kubernetes) [docs.bitnami.com/kubernetes/](https://docs.bitnami.com/kubernetes/) | San Francisco, CA |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
 | [Checkr](http://checkr.com) | critical business apps | kube-aws | [github.com/checkr/fluentd-firehose](https://github.com/checkr/fluentd-firehose)  and more to come.. | San Francisco, CA |
 | [Clarifai, Inc.](https://clarifai.com) | critical business apps | Custom Ansible for GPUs + CoreOS | [blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/](http://blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/) | New York City (HQ), San Francisco |
