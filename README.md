@@ -17,7 +17,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | [twitter.com/ryanckoch/status/768933690298609665](https://twitter.com/ryanckoch/status/768933690298609665) [prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/](https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/) | Louisville, CO |
 | [Bitnami](https://bitnami.com/) | critical business apps | kops | [bitn.am/2p25cF3](http://bitn.am/2p25cF3) [bitnami.com/kubernetes](https://bitnami.com/kubernetes) [docs.bitnami.com/kubernetes/](https://docs.bitnami.com/kubernetes/) | San Francisco, CA |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
-| [Checkr](http://checkr.com) | critical business apps | kube-aws | [github.com/checkr/fluentd-firehose](https://github.com/checkr/fluentd-firehose)  and more to come.. | San Francisco, CA |
+| [Checkr](http://checkr.com) | critical business apps | kube-aws | [github.com/checkr/codeflow](https://github.com/checkr/codeflow) | San Francisco, CA |
 | [Clarifai, Inc.](https://clarifai.com) | critical business apps | Custom Ansible for GPUs + CoreOS | [blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/](http://blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/) | New York City (HQ), San Francisco |
 | [CodeValue](http://www.codevalue.net) | critical business apps | kops |  | Israel |
 | [Crowdfire Inc](https://crowdfireapp.com) | critical business apps | kops, Custom Terraform+Ansible |  | Mumbai, India |
