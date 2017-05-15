@@ -27,11 +27,13 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
+| [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: [schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf](http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf) | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
+| [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
