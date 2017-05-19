@@ -28,6 +28,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
+| [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
