@@ -15,6 +15,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [AOE](https://aoe.com) | dev/test/staging | kops |  | Wiesbaden, Germany |
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See [applatix.com/blog/](https://applatix.com/blog/) for various articles on our internal use | Sunnyvale, California. |
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | [twitter.com/ryanckoch/status/768933690298609665](https://twitter.com/ryanckoch/status/768933690298609665) [prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/](https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/) | Louisville, CO |
+| [Base CRM](https://lab.getbase.com/) | critical business apps | kops |  | Kraków, Poland |
 | [Bitnami](https://bitnami.com/) | critical business apps | kops | [bitn.am/2p25cF3](http://bitn.am/2p25cF3) [bitnami.com/kubernetes](https://bitnami.com/kubernetes) [docs.bitnami.com/kubernetes/](https://docs.bitnami.com/kubernetes/) | San Francisco, CA |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
 | [Checkr](http://checkr.com) | critical business apps | kube-aws | [github.com/checkr/codeflow](https://github.com/checkr/codeflow) | San Francisco, CA |
@@ -29,6 +30,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
+| [HBO](https://play.hbogo.com/) | critical business apps | CoreOS + Custom Terraform | No |  |
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
