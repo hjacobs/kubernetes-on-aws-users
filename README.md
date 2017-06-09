@@ -18,6 +18,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Base CRM](https://lab.getbase.com/) | critical business apps | kops |  | Kraków, Poland |
 | [Bitnami](https://bitnami.com/) | critical business apps | kops | [bitn.am/2p25cF3](http://bitn.am/2p25cF3) [bitnami.com/kubernetes](https://bitnami.com/kubernetes) [docs.bitnami.com/kubernetes/](https://docs.bitnami.com/kubernetes/) | San Francisco, CA |
 | [Box](http://www.box.com) | proof of concept | kops |  | Redwood City, CA |
+| [ChatWork](https://www.chatwork.com/) | critical business apps | kube-aws | // All the contents are written in Japanese [blog-ja.chatwork.com/2017/06/chatworkaws-dev-day.html](http://blog-ja.chatwork.com/2017/06/chatworkaws-dev-day.html) [www.slideshare.net/mumoshu/from-dev-to-prod-kubernetes-on-aws-short-ver](https://www.slideshare.net/mumoshu/from-dev-to-prod-kubernetes-on-aws-short-ver) [itpro.nikkeibp.co.jp/atcl/column/14/346926/092100643/](http://itpro.nikkeibp.co.jp/atcl/column/14/346926/092100643/) | Tokyo, Japan |
 | [Checkr](http://checkr.com) | critical business apps | kube-aws | [github.com/checkr/codeflow](https://github.com/checkr/codeflow) | San Francisco, CA |
 | [Clarifai, Inc.](https://clarifai.com) | critical business apps | Custom Ansible for GPUs + CoreOS | [blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/](http://blog.clarifai.com/how-to-scale-your-gpu-cloud-infrastructure-with-kubernetes/) | New York City (HQ), San Francisco |
 | [CodeValue](http://www.codevalue.net) | critical business apps | kops |  | Israel |
@@ -44,6 +45,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [ReactiveOps](http://www.reactiveops.com) | critical business apps | kops, We also use our own internal framework for building clusters as we do it for many clients: [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/) | [www.reactiveops.com/blog/introducing-pentagon](https://www.reactiveops.com/blog/introducing-pentagon) [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/)  Lots more on our regular blog [www.reactiveops.com/blog/](https://www.reactiveops.com/blog/) | United States: Distributed |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
+| [Schibsted](http://bytes.schibsted.com) | critical business apps | kube-aws |  | Barcelona |
 | [SeamlessGov](http://seamlessgov.com/) | critical business apps | kops |  | New York, NY |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | [medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14](https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14) [www.youtube.com/watch?v=xvXy2BiaWrQ](https://www.youtube.com/watch?v=xvXy2BiaWrQ) | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
