@@ -40,13 +40,16 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
 | [NSW](http://Encompass Corporation) | proof of concept | kops | [icicimov.github.io/blog/tags/#kubernetes](https://icicimov.github.io/blog/tags/#kubernetes) | Sydney |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
+| [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
 | [PlanGrid](http://www.plangrid.com) | critical business apps | CloudFormation + salt |  | San Francisco, CA, USA |
+| [PornTube](https://porntube.com) | critical business apps | kube-aws | Not yet | Barcelona, Spain |
 | [ReactiveOps](http://www.reactiveops.com) | critical business apps | kops, We also use our own internal framework for building clusters as we do it for many clients: [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/) | [www.reactiveops.com/blog/introducing-pentagon](https://www.reactiveops.com/blog/introducing-pentagon) [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/)  Lots more on our regular blog [www.reactiveops.com/blog/](https://www.reactiveops.com/blog/) | United States: Distributed |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
 | [Schibsted](http://bytes.schibsted.com) | critical business apps | kube-aws |  | Barcelona |
 | [SeamlessGov](http://seamlessgov.com/) | critical business apps | kops |  | New York, NY |
+| [Skuid Inc](https://www.skuid.com) | critical business apps | Terraform | [www.skuid.com/blog/reduce-administrative-toil-with-kubernetes-1-3/](https://www.skuid.com/blog/reduce-administrative-toil-with-kubernetes-1-3/) | Chattanooga, TN |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | [medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14](https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14) [www.youtube.com/watch?v=xvXy2BiaWrQ](https://www.youtube.com/watch?v=xvXy2BiaWrQ) | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
 | [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
