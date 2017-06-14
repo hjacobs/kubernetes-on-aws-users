@@ -28,6 +28,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [DB Schenker](https://www.dbschenker.com/) | critical business apps | Terraform + Ansible | Not yet, sorry | Essen, Germany |
 | [Descomplica](https://descomplica.com.br) | critical business apps | kube-aws | [danielfm.me/posts/five-months-of-kubernetes.html](http://danielfm.me/posts/five-months-of-kubernetes.html) | Rio de Janeiro, Brazil |
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
+| [Ekino](http://www.ekino.com) | dev/test/staging | kops, Cloudformation / Troposphere |  | France |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
@@ -35,10 +36,12 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
+| [Indix Corp](https://www.indix.com/) | critical business apps | Custom Terraform + Ansible + CoreOS | [manojlds.github.io/kubernetes-production/](https://manojlds.github.io/kubernetes-production/) | Chennai, India |
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: [schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf](http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf) | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
 | [NSW](http://Encompass Corporation) | proof of concept | kops | [icicimov.github.io/blog/tags/#kubernetes](https://icicimov.github.io/blog/tags/#kubernetes) | Sydney |
+| [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
@@ -49,6 +52,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
 | [Schibsted](http://bytes.schibsted.com) | critical business apps | kube-aws |  | Barcelona |
 | [SeamlessGov](http://seamlessgov.com/) | critical business apps | kops |  | New York, NY |
+| [Simple](https://simple.com) | dev/test/staging | CoreOS Tectonic |  | Portland, Oregon |
 | [Skuid Inc](https://www.skuid.com) | critical business apps | Terraform | [www.skuid.com/blog/reduce-administrative-toil-with-kubernetes-1-3/](https://www.skuid.com/blog/reduce-administrative-toil-with-kubernetes-1-3/) | Chattanooga, TN |
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | [medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14](https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14) [www.youtube.com/watch?v=xvXy2BiaWrQ](https://www.youtube.com/watch?v=xvXy2BiaWrQ) | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
