@@ -29,6 +29,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Descomplica](https://descomplica.com.br) | critical business apps | kube-aws | [danielfm.me/posts/five-months-of-kubernetes.html](http://danielfm.me/posts/five-months-of-kubernetes.html) | Rio de Janeiro, Brazil |
 | [Deutsche Börse Group](http://deutsche-boerse.com) | proof of concept | kops |  | Prague, Czech Republic / Frankfurt, Germany |
 | [Ekino](http://www.ekino.com) | dev/test/staging | kops, Cloudformation / Troposphere |  | France |
+| [Encompass Corporation](https://www.encompasscorporation.com/) | proof of concept | kops | [icicimov.github.io/blog/virtualization/Kubernetes-Cluster-in-AWS-with-Kops/](https://icicimov.github.io/blog/virtualization/Kubernetes-Cluster-in-AWS-with-Kops/) | Sydney, Australia |
 | [Engine Yard](http://engineyard.com) | critical business apps | new product | Coming soon | San Francisco, CA |
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [FarmLogs](http://farmlogs.com) | critical business apps | Custom Cloud Formation + CoreOS |  | Ann Arbor, Michigan |
@@ -41,7 +42,6 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: [schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf](http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf) | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
-| [NSW](http://Encompass Corporation) | proof of concept | kops | [icicimov.github.io/blog/tags/#kubernetes](https://icicimov.github.io/blog/tags/#kubernetes) | Sydney |
 | [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
