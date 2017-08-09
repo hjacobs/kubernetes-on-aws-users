@@ -79,7 +79,6 @@ The following companies/organizations filled out [the Google form](https://docs.
 
 The following companies/organizations are known to run Kubernetes on AWS (sorted alphabetically), but haven't yet filled out [the Google form](https://docs.google.com/a/zalando.de/forms/d/e/1FAIpQLScrZkcCP8lfAuxZcWOzEmAIP0XCO5PtnfJbU0lFLx8D2-EdNg/viewform):
 
-* [Base CRM](https://getbase.com) (lab: [BaseLab](https://lab.getbase.com))
 * [Buffer](https://buffer.com)
 * Concur
 * Disney
