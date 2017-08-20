@@ -45,6 +45,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
 | [Netquest](https://www.netquest.com) | critical business apps | kube-aws | [www.camil.org/create-a-secure-kubernets-ha-cluster-in-aws-using-kube-aws/](https://www.camil.org/create-a-secure-kubernets-ha-cluster-in-aws-using-kube-aws/) | Barcelona, Spain |
+| [notasquare](http://notasquare.vn) | dev/test/staging |  |  | Vietnam |
 | [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
