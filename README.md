@@ -55,6 +55,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [ReactiveOps](http://www.reactiveops.com) | critical business apps | kops, We also use our own internal framework for building clusters as we do it for many clients: [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/) | [www.reactiveops.com/blog/introducing-pentagon](https://www.reactiveops.com/blog/introducing-pentagon) [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/)  Lots more on our regular blog [www.reactiveops.com/blog/](https://www.reactiveops.com/blog/) | United States: Distributed |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
+| [Rythm SAS](http://dreem.com) | critical business apps | kops, kops is wrapped into the karch Terraform module we wrote for the occasion: [github.com/elafarge/karch](https://github.com/elafarge/karch)  | [github.com/elafarge/karch](https://github.com/elafarge/karch) | Paris, France |
 | [Schibsted](http://bytes.schibsted.com) | critical business apps | kube-aws |  | Barcelona |
 | [SeamlessGov](http://seamlessgov.com/) | critical business apps | kops |  | New York, NY |
 | [Simple](https://simple.com) | dev/test/staging | CoreOS Tectonic |  | Portland, Oregon |
