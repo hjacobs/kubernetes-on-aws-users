@@ -51,6 +51,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
 | [PlanGrid](http://www.plangrid.com) | critical business apps | CloudFormation + salt |  | San Francisco, CA, USA |
+| [PlayCom](https://www.playcom.com) | critical business apps | kops | No (not yet) | Madrid, Barcelona (Spain) |
 | [PornTube](https://porntube.com) | critical business apps | kube-aws | Not yet | Barcelona, Spain |
 | [ReactiveOps](http://www.reactiveops.com) | critical business apps | kops, We also use our own internal framework for building clusters as we do it for many clients: [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/) | [www.reactiveops.com/blog/introducing-pentagon](https://www.reactiveops.com/blog/introducing-pentagon) [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/)  Lots more on our regular blog [www.reactiveops.com/blog/](https://www.reactiveops.com/blog/) | United States: Distributed |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
