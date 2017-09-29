@@ -44,6 +44,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: [schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf](http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf) | São Paulo, Brazil |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
+| [mytaxi](http://mytaxi.com) | proof of concept | kops, Terraform |  | Hamburg, Germany |
 | [Netquest](https://www.netquest.com) | critical business apps | kube-aws | [www.camil.org/create-a-secure-kubernets-ha-cluster-in-aws-using-kube-aws/](https://www.camil.org/create-a-secure-kubernets-ha-cluster-in-aws-using-kube-aws/) | Barcelona, Spain |
 | [notasquare](http://notasquare.vn) | dev/test/staging |  |  | Vietnam |
 | [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
