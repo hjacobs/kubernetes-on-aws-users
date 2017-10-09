@@ -37,6 +37,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Exaring AG](http://waipu.tv) | critical business apps | kops, Home build solution |  | München, Karlsruhe, Berlin |
 | [FarmLogs](http://farmlogs.com) | critical business apps | Custom Cloud Formation + CoreOS |  | Ann Arbor, Michigan |
 | [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
+| [freee K.K.](https://corp.freee.co.jp/) | proof of concept | kube-aws |  | Tokyo, Japan |
 | [HBO](https://play.hbogo.com/) | critical business apps | CoreOS + Custom Terraform | No |  |
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
@@ -68,6 +69,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
 | [Stylight GmbH](https://www.stylight.com) | critical business apps | Custom Cloud Formation + CoreOS | [github.com/stylight/etcd-bootstrap](https://github.com/stylight/etcd-bootstrap) | Munich |
+| [Supership Inc.](https://supership.jp/en/) | dev/test/staging | kube-aws |  |  |
 | [Ticketmaster](http://www.ticketmaster.com) | critical business apps | CoreOS Tectonic | See presentations from KubeCon & KubeCon EU. It's growing like mad. | Los Angeles, CA |
 | [Tictrac](https://tictrac.com) | critical business apps | kops |  | London, UK |
 | [UPMC Enterprises](http://enterprises.upmc.com) | critical business apps | [github.com/upmc-enterprises/kubernetes-on-aws](https://github.com/upmc-enterprises/kubernetes-on-aws) |  | Pittsburgh, PA |
