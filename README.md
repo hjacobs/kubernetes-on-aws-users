@@ -14,6 +14,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 |---|---|---|---|---|
 | [AOE](https://aoe.com) | dev/test/staging | kops |  | Wiesbaden, Germany |
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See [applatix.com/blog/](https://applatix.com/blog/) for various articles on our internal use | Sunnyvale, California. |
+| [ArchDaily](http://www.archdaily.com) | critical business apps | kops |  | Santiago, Chile |
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | [twitter.com/ryanckoch/status/768933690298609665](https://twitter.com/ryanckoch/status/768933690298609665) [prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/](https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/) | Louisville, CO |
 | [Atlassian](http://www.atlassian.com) | internal/non-critical apps | Custom Terraform | [legacy-developer.atlassian.com/blog/2017/07/kubernetes-infra-on-aws/](https://legacy-developer.atlassian.com/blog/2017/07/kubernetes-infra-on-aws/) [legacy-developer.atlassian.com/blog/2017/07/kubetoken/](https://legacy-developer.atlassian.com/blog/2017/07/kubetoken/) [legacy-developer.atlassian.com/blog/2017/07/kubernetes-workflow/](https://legacy-developer.atlassian.com/blog/2017/07/kubernetes-workflow/) | Sydney, Australia |
 | [Base CRM](https://lab.getbase.com/) | critical business apps | kops |  | Kraków, Poland |
@@ -51,6 +52,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [notasquare](http://notasquare.vn) | dev/test/staging |  |  | Vietnam |
 | [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
+| [Paytm](http://paytm.com) | critical business apps | kube-aws |  | Bangalore, India |
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
 | [PlanGrid](http://www.plangrid.com) | critical business apps | CloudFormation + salt |  | San Francisco, CA, USA |
