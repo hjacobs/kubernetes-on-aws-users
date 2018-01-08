@@ -39,7 +39,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [FarmLogs](http://farmlogs.com) | critical business apps | Custom Cloud Formation + CoreOS |  | Ann Arbor, Michigan |
 | [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
 | [freee K.K.](https://corp.freee.co.jp/) | proof of concept | kube-aws |  | Tokyo, Japan |
-| [HBO](https://play.hbogo.com/) | critical business apps | CoreOS + Custom Terraform | No |  |
+| [HBO](https://play.hbogo.com/) | critical business apps | CoreOS + Custom Terraform | [www.youtube.com/watch?v=7skInj_vqN0](https://www.youtube.com/watch?v=7skInj_vqN0) |  |
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
