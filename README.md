@@ -70,6 +70,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
 | [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
+| [Streema](http://streema.com) | critical business apps | kops, Terraform | Not yet |  |
 | [Stylight GmbH](https://www.stylight.com) | critical business apps | Custom Cloud Formation + CoreOS | [github.com/stylight/etcd-bootstrap](https://github.com/stylight/etcd-bootstrap) | Munich |
 | [Supership Inc.](https://supership.jp/en/) | dev/test/staging | kube-aws |  |  |
 | [Ticketmaster](http://www.ticketmaster.com) | critical business apps | CoreOS Tectonic | See presentations from KubeCon & KubeCon EU. It's growing like mad. | Los Angeles, CA |
