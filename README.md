@@ -40,6 +40,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Flixbus](https://www.flixbus.com) | critical business apps | Puppet |  | Berlin, Germany |
 | [freee K.K.](https://corp.freee.co.jp/) | proof of concept | kube-aws |  | Tokyo, Japan |
 | [HBO](https://play.hbogo.com/) | critical business apps | CoreOS + Custom Terraform | [www.youtube.com/watch?v=7skInj_vqN0](https://www.youtube.com/watch?v=7skInj_vqN0) |  |
+| [Hephy](http://teamhephy.com) | critical business apps | kops |  | World Wide Web |
 | [Hiya, Inc.](https://hiya.com) | critical business apps | Custom Cloud Formation + CoreOS | high-level talk at KubeCon 2016: [www.youtube.com/watch?v=xkSYOtPxH_Q](https://www.youtube.com/watch?v=xkSYOtPxH_Q) | Seattle, USA |
 | [Honestbee](https://honestbee.com) | critical business apps | tack (Terraform + CoreOS) | [speakerdeck.com/so0k/kubernetes-and-helm-tech-talk](https://speakerdeck.com/so0k/kubernetes-and-helm-tech-talk) | Singapore, Singapore |
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
@@ -52,6 +53,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [notasquare](http://notasquare.vn) | dev/test/staging |  |  | Vietnam |
 | [NUVI](http://www.nuvi.com) | critical business apps | Terraform + Ansible + CoreOS | No | Lehi, UT |
 | [Oteemo](http://oteemo.com) | critical business apps | kops | Presentation to DC Continuous Delivery on running a CD stack on K8s: [docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing](https://docs.google.com/presentation/d/18r-u6S2r4LEV-0oTVL2iipfSyu6GRPYag3GsmafjRUU/edit?usp=sharing) | Reston, VA, United States |
+| [Palar Support](https://palar.support) | internal/non-critical apps | kops |  | San Francisco, US |
 | [Paytm](http://paytm.com) | critical business apps | kube-aws |  | Bangalore, India |
 | [Pearson](http://www.pearson.com) | critical business apps | Terraform | www.devoperandi.com | London, UK and Denver, CO |
 | [Photobox Ltd](http://group.photobox.com) | critical business apps | kops |  | London |
@@ -69,10 +71,12 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | [medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14](https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14) [www.youtube.com/watch?v=xvXy2BiaWrQ](https://www.youtube.com/watch?v=xvXy2BiaWrQ) | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
 | [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
+| [Statflo Inc.](http://www.statflo.com) | critical business apps | kops |  | Toronto, Ontario, Canada |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
 | [Streema](http://streema.com) | critical business apps | kops, Terraform | Not yet |  |
 | [Stylight GmbH](https://www.stylight.com) | critical business apps | Custom Cloud Formation + CoreOS | [github.com/stylight/etcd-bootstrap](https://github.com/stylight/etcd-bootstrap) | Munich |
 | [Supership Inc.](https://supership.jp/en/) | dev/test/staging | kube-aws |  |  |
+| [SupplyPike](https://supplypike.com/) | critical business apps | Custom Terraform + CoreOS | [drive.google.com/open?id=10HaldFXnXQRr7FK36_I9TmiGR9iZFHJJhH3qba8V9Uo](https://drive.google.com/open?id=10HaldFXnXQRr7FK36_I9TmiGR9iZFHJJhH3qba8V9Uo) | Fayetteville, AR |
 | [Ticketmaster](http://www.ticketmaster.com) | critical business apps | CoreOS Tectonic | See presentations from KubeCon & KubeCon EU. It's growing like mad. | Los Angeles, CA |
 | [Tictrac](https://tictrac.com) | critical business apps | kops |  | London, UK |
 | [UPMC Enterprises](http://enterprises.upmc.com) | critical business apps | [github.com/upmc-enterprises/kubernetes-on-aws](https://github.com/upmc-enterprises/kubernetes-on-aws) |  | Pittsburgh, PA |
