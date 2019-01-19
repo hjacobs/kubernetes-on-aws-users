@@ -15,6 +15,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [AOE](https://aoe.com) | dev/test/staging | kops |  | Wiesbaden, Germany |
 | [Applatix, Inc.](https://www.applatix.com) | dev/test/staging | kube-up | Yes. See [applatix.com/blog/](https://applatix.com/blog/) for various articles on our internal use | Sunnyvale, California. |
 | [ArchDaily](http://www.archdaily.com) | critical business apps | kops |  | Santiago, Chile |
+| [Atalaya Tech Inc](http://atalaya.io) | critical business apps | kops | No | San Francisco, CA |
 | [Athlinks](https://www.athlinks.com) | critical business apps | kubeadm, Terraform | [twitter.com/ryanckoch/status/768933690298609665](https://twitter.com/ryanckoch/status/768933690298609665) [prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/](https://prezi.com/goiqe5_2u7lg/not-all-who-wander-are-lost-our-journey-to-kubernetes/) | Louisville, CO |
 | [Atlassian](http://www.atlassian.com) | internal/non-critical apps | Custom Terraform | [legacy-developer.atlassian.com/blog/2017/07/kubernetes-infra-on-aws/](https://legacy-developer.atlassian.com/blog/2017/07/kubernetes-infra-on-aws/) [legacy-developer.atlassian.com/blog/2017/07/kubetoken/](https://legacy-developer.atlassian.com/blog/2017/07/kubetoken/) [legacy-developer.atlassian.com/blog/2017/07/kubernetes-workflow/](https://legacy-developer.atlassian.com/blog/2017/07/kubernetes-workflow/) | Sydney, Australia |
 | [Base CRM](https://lab.getbase.com/) | critical business apps | kops |  | Kraków, Poland |
@@ -46,6 +47,8 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [immmr GmbH](http://www.immmr.com) | critical business apps | Custom terraform + Container Linux | [www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016](https://www.slideshare.net/Metatron31/kubernetes-at-immmr-coreos-fest-2016) | Berlin, Germany |
 | [Indix Corp](https://www.indix.com/) | critical business apps | Custom Terraform + Ansible + CoreOS | [manojlds.github.io/kubernetes-production/](https://manojlds.github.io/kubernetes-production/) | Chennai, India |
 | [Luiza Labs](http://luizalabs.com) | critical business apps | kops | Our first Black Friday with critical apps on Kubernetes: [schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf](http://schd.ws/hosted_files/cloudnativeeu2017/10/KubeCon-BlackFriday.pdf) | São Paulo, Brazil |
+| [Mercado Bitcoin](https://www.mercadobitcoin.com.br) | critical business apps | kops | Not yet | São Paulo, Brazil |
+| [MERCEDES BENZ.IO](https://www.mercedes-benz.io) | critical business apps | kops, bash + Terraform |  | Berlin, Germany |
 | [Movio](https://movio.co/) | critical business apps | Custom Ubuntu AMIs | Older blog post: [movio.co/blog/6-months-kubernetes-production/](https://movio.co/blog/6-months-kubernetes-production/) Prometheus + Kubernetes: [movio.co/blog/prometheus-service-discovery-kubernetes/](https://movio.co/blog/prometheus-service-discovery-kubernetes/) | Auckland, New Zealand |
 | [Mozilla](https://www.mozilla.org) | critical business apps | kops | [github.com/mozmar/infra](https://github.com/mozmar/infra) |  |
 | [mytaxi](http://mytaxi.com) | proof of concept | kops, Terraform |  | Hamburg, Germany |
@@ -86,6 +89,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Weaveworks](http://weave.works) | critical business apps | Terraform+Ansible ([github.com/weaveworks/ansible-kubernetes](https://github.com/weaveworks/ansible-kubernetes)) | [www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/](https://www.weave.works/provisioning-lifecycle-production-ready-kubernetes-cluster/) | Berlin, London & San Francisco |
 | [Yahoo Inc](http://qc.yahoo.cm) | proof of concept | kops, Terraform |  | Barcelona, Sunnyvale |
 | [Zalando SE](https://tech.zalando.com) | critical business apps | Custom Cloud Formation + CoreOS | [github.com/zalando-incubator/kubernetes-on-aws](https://github.com/zalando-incubator/kubernetes-on-aws) | Berlin, Germany |
+| [Zipwhip](http://Zipwhip.com) | critical business apps | Custom Terraform | Not yet | Seattle, WA |
 <!-- TABLE_END -->
 
 
