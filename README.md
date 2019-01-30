@@ -74,6 +74,7 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [Spire Labs](http://spirelabs.co (also spire.me)) | critical business apps | kops | [medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14](https://medium.com/spire-labs/mitigating-an-aws-instance-failure-with-the-magic-of-kubernetes-128a44d44c14) [www.youtube.com/watch?v=xvXy2BiaWrQ](https://www.youtube.com/watch?v=xvXy2BiaWrQ) | Chattanooga, TN |
 | [Spotahome](http://www.spotahome.com) | critical business apps | kops | Not yet | Madrid, Spain |
 | [Spreaker](https://www.spreaker.com) | critical business apps | kops |  | Remote Team across Europe |
+| [Spring Media](http://www.bild.de) | critical business apps | kops | not yet | Berlin, Germany |
 | [Statflo Inc.](http://www.statflo.com) | critical business apps | kops |  | Toronto, Ontario, Canada |
 | [store2be GmbH](https://tech.store2be.com) | internal/non-critical apps | kops |  | Berlin, Germany |
 | [Streema](http://streema.com) | critical business apps | kops, Terraform | Not yet |  |
