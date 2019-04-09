@@ -63,8 +63,10 @@ The following companies/organizations filled out [the Google form](https://docs.
 | [PlanGrid](http://www.plangrid.com) | critical business apps | CloudFormation + salt |  | San Francisco, CA, USA |
 | [PlayCom](https://www.playcom.com) | critical business apps | kops | No (not yet) | Madrid, Barcelona (Spain) |
 | [PornTube](https://porntube.com) | critical business apps | kube-aws | Not yet | Barcelona, Spain |
+| [Razorpay](https://razorpay.com) | critical business apps | custom bootkube / terraform coreos provisioning tool | Not yet | Bangalore, India |
 | [ReactiveOps](http://www.reactiveops.com) | critical business apps | kops, We also use our own internal framework for building clusters as we do it for many clients: [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/) | [www.reactiveops.com/blog/introducing-pentagon](https://www.reactiveops.com/blog/introducing-pentagon) [github.com/reactiveops/pentagon/](https://github.com/reactiveops/pentagon/)  Lots more on our regular blog [www.reactiveops.com/blog/](https://www.reactiveops.com/blog/) | United States: Distributed |
 | [Reddit](https://www.reddit.com/) | dev/test/staging | kubeadm, terraform |  | San Francisco, CA |
+| [Resistbot](https://resist.bot) | critical business apps | Amazon EKS | @resistbotatwork | The internet |
 | [Restorando](http://www.restorando.com) | critical business apps | kops, kube-up |  | Buenos Aires, Argentina |
 | [Rythm SAS](http://dreem.com) | critical business apps | kops, kops is wrapped into the karch Terraform module we wrote for the occasion: [github.com/elafarge/karch](https://github.com/elafarge/karch)  | [github.com/elafarge/karch](https://github.com/elafarge/karch) | Paris, France |
 | [Schibsted](http://bytes.schibsted.com) | critical business apps | kube-aws |  | Barcelona |
